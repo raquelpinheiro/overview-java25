@@ -16,18 +16,18 @@ Spring Boot moderno usa fortemente Java 17+.
 - Garbage Collection (G1, ZGC)
 
 ## Spring — JPA + Hibernate
-EntityManager
-Persistence Context
-Lazy por padrão
-Proxy em runtime
-Muito mais chance de N+1
+- EntityManager
+- Persistence Context
+- Lazy por padrão
+- Proxy em runtime
+- Muito mais chance de N+1
 
 ## Precisa saber quando usar
-WebFlux
-Reactor
-Mono
-Flux
-Backpressure
+- WebFlux
+- Reactor
+- Mono
+- Flux
+- Backpressure
 
 ## Tópicos mais avançados
 Thread model do Tomcat
